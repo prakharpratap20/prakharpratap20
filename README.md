@@ -2,7 +2,7 @@
 
 - 🖥️ I've been coding in Python for over 2 years
 - 👨🏻‍💻 I'm learning Javascript (Express.js, React, Angular, Node.js)
-- 500+ problems solved on Leetcode
+- 📈 500+ problems solved on Leetcode
 - 📽️ Actively looking to colaborate on projects
 
 <!--
