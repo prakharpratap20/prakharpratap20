@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Prakhar Pratap 👋
+
+- 🖥️ I've been coding in Python for over 2 years.
+- 👨🏻‍💻 I'm learning Javascript (Express.js, React, Angular, Node.js).
+- 📽️ Actively looking to colaborate on projects.
 
 <!--
 **prakharpratap20/prakharpratap20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
