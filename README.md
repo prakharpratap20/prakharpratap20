@@ -1,6 +1,6 @@
 ### Hi, I'm Prakhar Pratap 👋
 
-- I use nvim btw.
+- 👨🏻‍💻 I use nvim btw.
 - 🖥️ I've been coding in Python for over 2 years
 - 📈 500+ problems solved on Leetcode
 - 📽️ Actively looking to colaborate on projects
