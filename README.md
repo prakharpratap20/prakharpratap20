@@ -1,9 +1,9 @@
 ### Hi, I'm Prakhar Pratap 👋
 
-- 👨🏻‍💻 I use nvim btw.
 - 🖥️ I've been coding in Python for over 2 years
 - 📈 500+ problems solved on Leetcode
 - 📽️ Actively looking to colaborate on projects
+- 👨🏻‍💻 I use nvim btw.
 
 <!--
 **prakharpratap20/prakharpratap20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
